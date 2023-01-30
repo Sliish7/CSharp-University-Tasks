@@ -1,0 +1,14 @@
+C:\Users\Kannoe\Desktop\Problems\ThePyramidOfKingDjoser\ThePyramidOfKingDjoser\bin\Debug\netcoreapp3.1\ThePyramidOfKingDjoser.exe
+C:\Users\Kannoe\Desktop\Problems\ThePyramidOfKingDjoser\ThePyramidOfKingDjoser\bin\Debug\netcoreapp3.1\ThePyramidOfKingDjoser.deps.json
+C:\Users\Kannoe\Desktop\Problems\ThePyramidOfKingDjoser\ThePyramidOfKingDjoser\bin\Debug\netcoreapp3.1\ThePyramidOfKingDjoser.runtimeconfig.json
+C:\Users\Kannoe\Desktop\Problems\ThePyramidOfKingDjoser\ThePyramidOfKingDjoser\bin\Debug\netcoreapp3.1\ThePyramidOfKingDjoser.runtimeconfig.dev.json
+C:\Users\Kannoe\Desktop\Problems\ThePyramidOfKingDjoser\ThePyramidOfKingDjoser\bin\Debug\netcoreapp3.1\ThePyramidOfKingDjoser.dll
+C:\Users\Kannoe\Desktop\Problems\ThePyramidOfKingDjoser\ThePyramidOfKingDjoser\bin\Debug\netcoreapp3.1\ThePyramidOfKingDjoser.pdb
+C:\Users\Kannoe\Desktop\Problems\ThePyramidOfKingDjoser\ThePyramidOfKingDjoser\obj\Debug\netcoreapp3.1\ThePyramidOfKingDjoser.csproj.AssemblyReference.cache
+C:\Users\Kannoe\Desktop\Problems\ThePyramidOfKingDjoser\ThePyramidOfKingDjoser\obj\Debug\netcoreapp3.1\ThePyramidOfKingDjoser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kannoe\Desktop\Problems\ThePyramidOfKingDjoser\ThePyramidOfKingDjoser\obj\Debug\netcoreapp3.1\ThePyramidOfKingDjoser.AssemblyInfoInputs.cache
+C:\Users\Kannoe\Desktop\Problems\ThePyramidOfKingDjoser\ThePyramidOfKingDjoser\obj\Debug\netcoreapp3.1\ThePyramidOfKingDjoser.AssemblyInfo.cs
+C:\Users\Kannoe\Desktop\Problems\ThePyramidOfKingDjoser\ThePyramidOfKingDjoser\obj\Debug\netcoreapp3.1\ThePyramidOfKingDjoser.csproj.CoreCompileInputs.cache
+C:\Users\Kannoe\Desktop\Problems\ThePyramidOfKingDjoser\ThePyramidOfKingDjoser\obj\Debug\netcoreapp3.1\ThePyramidOfKingDjoser.dll
+C:\Users\Kannoe\Desktop\Problems\ThePyramidOfKingDjoser\ThePyramidOfKingDjoser\obj\Debug\netcoreapp3.1\ThePyramidOfKingDjoser.pdb
+C:\Users\Kannoe\Desktop\Problems\ThePyramidOfKingDjoser\ThePyramidOfKingDjoser\obj\Debug\netcoreapp3.1\ThePyramidOfKingDjoser.genruntimeconfig.cache
